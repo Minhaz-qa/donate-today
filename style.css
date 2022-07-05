@@ -61,7 +61,7 @@ body {
 
 
 .display-flex {
-    display: inline-flex;
+    display: flex;
     justify-content: space-evenly;
 
 
@@ -77,6 +77,31 @@ body {
     background-color: rgb(241, 26, 109);
 }
 
+.donate-plan {
+    width: 300px;
+    height: 230px;
+    border: 10px;
+    background-color: rgb(230, 230, 247);
+    margin: 10px;
+    padding: 20PX;
+    border-radius: 10px;
+    padding-top: 30px;
+
+}
+
 #rgba-color {
     color: rgb(206, 190, 190);
+}
+
+.color-orange {
+    background-color: rgb(102, 201, 201);
+}
+
+.color-tomato {
+    background-color: rgb(247, 139, 120);
+}
+
+.flex-margin {
+    margin-left: 10%;
+    margin-right: 10%;
 }
