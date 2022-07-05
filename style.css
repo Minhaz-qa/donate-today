@@ -20,7 +20,7 @@ body {
 }
 
 .section-1 {
-    background-image: url(/images/donation13.jpg);
+    background-image: url(/images/donation-pic.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -107,10 +107,6 @@ body {
     width: 80%;
     border-radius: 10px;
     margin-left: 10%;
-}
-
-#margin {
-    margin-top: 50px;
 }
 
 
