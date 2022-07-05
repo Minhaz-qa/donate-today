@@ -16,11 +16,11 @@ body {
 }
 
 #hedding {
-    font-size: 50px;
+    font-size: 55px;
 }
 
 .section-1 {
-    background-image: url(/images/donation1.jpg);
+    background-image: url(/images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
@@ -28,7 +28,7 @@ body {
 
 .link-button {
     width: 10px 40px;
-    background-image: linear-gradient(rgb(250, 18, 161), tomato);
+    background-image: linear-gradient(rgb(241, 50, 161), rgb(241, 82, 57));
     text-decoration: none;
     padding: 10px 40px;
     border-radius: 7px;
@@ -107,6 +107,10 @@ body {
     width: 80%;
     border-radius: 10px;
     margin-left: 10%;
+}
+
+#margin {
+    margin-top: 50px;
 }
 
 
