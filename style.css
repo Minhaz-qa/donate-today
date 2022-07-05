@@ -89,6 +89,27 @@ body {
 
 }
 
+.flexable-containar {
+    display: flex;
+    margin-top: 100px;
+    box-shadow: 4px 4px 8px gray;
+    padding: 10px;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+
+
+}
+
+.half-width img {
+    width: 80%;
+    border-radius: 10px;
+    margin-left: 10%;
+}
+
+
 #rgba-color {
     color: rgb(206, 190, 190);
 }
@@ -110,7 +131,7 @@ body {
 .input-email {
     background-color: gainsboro;
     padding: 10px 14px;
-    border: 1px solid;
+    border: none;
     border-radius: 5px;
 }
 
@@ -119,6 +140,8 @@ body {
     padding: 10px 14px;
     border: none;
     border-radius: 5px;
+    color: white;
+    font-weight: bold;
 }
 
 .reg-part {
