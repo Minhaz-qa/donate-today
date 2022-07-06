@@ -21,8 +21,6 @@ body {
 
 .profile-section {
     background-image: url(images/pic-2.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
     height: 620px;
 }
 
@@ -146,7 +144,6 @@ input {
     background-color: tomato;
     padding: 10px 14px;
     border: none;
-    /* border-radius: 5px; */
     color: white;
     font-weight: bold;
     margin-left: -5px;
@@ -160,7 +157,7 @@ input {
     padding-top: 60px;
     background-color: rgb(206, 249, 252);
     margin-top: 100px;
-    /* border-radius: 10px; */
+
 }
 
 footer {
