@@ -6,7 +6,7 @@ body {
 
 
 
-.profile {
+.div-style {
     width: 50%;
     margin: auto;
     text-align: center;
@@ -19,7 +19,7 @@ body {
     font-size: 55px;
 }
 
-.section-1 {
+.profile-section {
     background-image: url(images/pic-2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@ body {
     font-weight: 700px;
 }
 
-.div2 {
+.div-style-2 {
     width: 50%;
     margin: auto;
     text-align: center;
@@ -67,7 +67,7 @@ body {
 
 }
 
-.center {
+.div-margin {
     margin-left: 20%;
     margin-right: 20%;
 }
@@ -111,7 +111,7 @@ body {
 }
 
 
-#rgba-color {
+#rgb-color {
     color: rgb(206, 190, 190);
 
 }
@@ -146,13 +146,13 @@ input {
     background-color: tomato;
     padding: 10px 14px;
     border: none;
-    border-radius: 5px;
+    /* border-radius: 5px; */
     color: white;
     font-weight: bold;
     margin-left: -5px;
 }
 
-.reg-part {
+.form-part {
     width: 60%;
     height: 100px;
     margin: auto;
@@ -160,7 +160,7 @@ input {
     padding-top: 60px;
     background-color: rgb(206, 249, 252);
     margin-top: 100px;
-    border-radius: 10px;
+    /* border-radius: 10px; */
 }
 
 footer {
